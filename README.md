@@ -1,11 +1,22 @@
 # welcome-git
 
-Git demo for imt511
+Welcome! This is a _repo_ for **IMT511**
 
-This is just a demo repo for the cours
+## The purpose
 
-Another fun update! 
+The purpose of this repo is to demonstrate how git works,
+and how markdown works.
 
-lovin this maple bar
+You are welcome to copy and play with this repo.
 
-spam musubi
+## Markdown syntax
+
+### Bullet list
+
+Bullet list can be done with '*' or '-':
+* this is an example with asterik
+- and one with dash
+    * here is a subitem (indent with 4 spaces!)
+
+
+
