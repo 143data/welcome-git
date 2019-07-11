@@ -18,6 +18,13 @@ Bullet list can be done with '*' or '-':
 - and one with dash
     * here is a subitem (indent with 4 spaces!)
 
-### links
+### Links
 
 HTML links works as this: [link to google](https://www.google.com)
+
+### Images
+
+We can include images like this:
+
+![Giants' causeway](causeway.jpg)
+
